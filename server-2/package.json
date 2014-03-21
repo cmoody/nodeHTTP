@@ -1,0 +1,16 @@
+{
+  "name": "Sever2",
+  "version": "0.0.1",
+  "description": "Test application showing node http servers",
+  "dependencies": {
+    "connect": "~2.14.3"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.*"
+  },
+  "main": "Gruntfile.js",
+  "repository": "",
+  "author": "",
+  "license": ""
+}
